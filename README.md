@@ -34,6 +34,7 @@ This repository contains a Jupyter notebook that demonstrates the implementation
 ### Author
 
 Ali Jabbari
+
 Feel free to use and modify this notebook to explore and experiment with different optimization methods for neural networks. If you have any questions or suggestions, please feel free to reach out and contribute to the repository.
 
 Happy learning and coding!
