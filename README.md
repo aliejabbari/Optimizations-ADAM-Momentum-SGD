@@ -31,14 +31,11 @@ This repository contains a Jupyter notebook that demonstrates the implementation
 - scipy.io (for loading data - not used in this notebook)
 - scikit-learn (for generating the dataset)
 
-### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Author
 
-[Your Name]
-
+Ali Jabbari
 Feel free to use and modify this notebook to explore and experiment with different optimization methods for neural networks. If you have any questions or suggestions, please feel free to reach out and contribute to the repository.
 
 Happy learning and coding!
