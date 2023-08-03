@@ -27,8 +27,6 @@ This repository contains a Jupyter notebook that demonstrates the implementation
 - Python 3.x
 - NumPy
 - Matplotlib
-- h5py (for loading data - not used in this notebook)
-- scipy.io (for loading data - not used in this notebook)
 - scikit-learn (for generating the dataset)
 
 
